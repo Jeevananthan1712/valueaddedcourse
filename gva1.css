@@ -1,0 +1,122 @@
+.div1 {
+ /* background-color: black; */
+ padding: 20px;
+ color: rgb(62, 123, 176);
+ background-image: url("./1.jpg");
+ background-size: cover;
+}
+.v{
+ scroll-behavior: smooth;
+ color: darkcyan;
+ text-decoration: none;
+}
+
+li {
+ list-style-type: none;
+ 
+ display: inline;
+ padding-left: 10%;
+}
+
+.img1 {
+ width: 5%;
+ border-radius: 30%;
+}
+.img1:hover{
+ width: 10%;
+}
+
+.div2 {
+ background-image: url("./1.jpg");
+ height: 515px;
+ background-position: center;
+ background-size: cover;
+ text-align: center;
+ width: 100%;
+}
+
+.h11 {
+ padding: 2%;
+font-family: 'Permanent Marker', cursive;
+ /* background-color: aliceblue; */
+}
+
+.sec2 {
+ background-color: rgb(194, 185, 173);
+}
+
+.div3 {
+ padding-right: 0%;
+}
+
+.img2 {
+ padding-right: 0;
+ width: 100%;
+ opacity: .5;
+}
+
+.img2:hover {
+ opacity: 1;
+}
+
+.div4 {
+ padding-top: 2%;
+}
+
+.div5 {
+ padding: 7%;
+ text-align: center;
+}
+
+.btn1:hover {
+ background-color: rgb(70, 132, 70);
+}
+
+.btn2:hover {
+ background-color: rgb(225, 63, 63);
+}
+
+.imgdiv {
+ align-items: center;
+ text-align: center;
+
+}
+
+.imgh {
+ padding: 2%;
+ width: 70%;
+ /* height: 100%; */
+ border-radius: 50%;
+}
+
+.imgh:hover {
+ transform: rotate(20deg);
+}
+
+.btn3 {
+ margin: 10%;
+}
+
+.btn3:hover {
+ background-color: rgb(52, 133, 209);
+}
+
+.sec4 {
+ background-color: tan;
+}
+
+.form{
+ margin: 2%;
+ text-align: center;
+ /* background-color: black; */
+ /* color: tomato; */
+}
+
+#footer{
+ padding: 2%;
+ background-color: rgb(21, 57, 57);
+ text-align: center;
+}
+.lastdiv{
+ background-color: darkslategrey
+}
